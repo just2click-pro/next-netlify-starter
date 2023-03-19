@@ -11,6 +11,7 @@ body {
 }
 
 main {
+  background: #ADD8E6;
   padding: 5rem 0;
   flex: 1;
   display: flex;
